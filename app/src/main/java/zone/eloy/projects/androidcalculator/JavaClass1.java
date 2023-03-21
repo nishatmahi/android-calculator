@@ -24,7 +24,7 @@ public class JavaClass1 {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public void setInt(){
+        System.out.println("Changed again");
     }
 }
